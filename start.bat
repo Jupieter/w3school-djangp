@@ -1,4 +1,4 @@
 C:\Windows\System32\cmd.exe
 d:
-cd djangogirls
+cd w3school-djangp
 venv.bat

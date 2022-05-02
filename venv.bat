@@ -1,1 +1,1 @@
-d:\djangogirls\myvenv\Scripts\activate.bat
+d:\w3school-djangp\myvenv\Scripts\activate.bat
