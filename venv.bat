@@ -1,1 +1,1 @@
-d:\w3school-djangp\myvenv\Scripts\activate.bat
+d:\w3school-djangp\myproject\Scripts\activate.bat
